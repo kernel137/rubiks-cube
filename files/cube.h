@@ -500,7 +500,7 @@ public:
 	void DisplayNormalTurns(){
 		double sleepTime;
 		system("clear");
-		cout << "Input ammount of seconds to pause between each move: "; cin >> sleepTime;
+		cout << "Input time in seconds to pause between each move: "; cin >> sleepTime;
 		cin.ignore();
 		Input();
 		Display(sleepTime);
@@ -516,5 +516,4 @@ public:
 		Input();
 		Periodicity(sleepTime);
 	}
-
 };

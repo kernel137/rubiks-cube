@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	Cube cube; // Initializing a cube instance
-	int choice = 2;
+	int choice = 1;
 	double sleepTime;
 	cout << "1. Input turns" <<endl;
 	cout << "2. Count cycle periodicity" <<endl;
