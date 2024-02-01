@@ -1,7 +1,7 @@
 <h1 align="center">Rubiks Cube CLI display</h1>
 
 <p align="center">
-  <img src="./readme_files/cube.gif" alt="animated" />
+  <img src="cube.gif" alt="animated" />
 </p>
 
 
